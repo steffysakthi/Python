@@ -1,5 +1,5 @@
-number = input("Enter your number: ")
-print( "number"+" "+number)
+num = input("Enter your number: ")
+print( "number"+" "+num)
 for i in range (1 ,100):
 
     if i%2==0 :
